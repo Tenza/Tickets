@@ -16,3 +16,7 @@ General purpose, offline ticket system.
   - Administrator: they are responsible for adding and removing departments and employees. They are also responsible for moving employees between departments as well as assigning their access level.
   - Manager: they are responsible for opening a ticket and assigning employees on their department to it. Once resolved, they are also responsible for closing the ticket.
   - Employee: they are the ones assigned by the manager to solve the question asked.
+  
+##Application
+
+[![Click here to view the image!](http://s18.postimg.org/699f3d7d5/Image_1.png)](http://s18.postimg.org/699f3d7d5/Image_1.png)
